@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    
+    
+    
+    
+}
+.main {
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    height: 550px;
+    background-color: #1F2937;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 52px 0px 52px;
+    justify-content: center;
+}
+h1 {
+    color: white;
+}
+
+#head-1 {
+    color: white;
+    margin-bottom: 0px;
+}
+
+#head-2 {
+    color: #4ADF86;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#heading-two {
+    margin-top: 7px;
+    padding-bottom: 25px;
+    
+}
+
+p {
+    color: #D5D4D8;
+}
+
+#line {
+    
+}
+
+#generate-btn {
+    background-color: #10B981;
+    color: white;
+    border: 0px solid black;
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+
+#pass-1 {
+    width: 211px;
+    height: 39px;
+    border: 0px solid black;
+    background-color: #273549;
+    color: #55F991;
+    border-radius: 5px;
+    margin-right: 20px;
+    align-content: center;
+    text-align: center;
+}
+
+#pass-2 {
+    width: 211px;
+    height: 39px;
+    border: 0px solid black;
+    background-color: #273549;
+    color: #55F991;
+    border-radius: 5px;
+    align-content: center;
+    text-align: center;
+}
+
+.pass-output {
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid #2F3E53;
+    padding-top: 20px;
+    margin-top: 25px;
+    
+}
+
